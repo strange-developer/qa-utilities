@@ -1,0 +1,26 @@
+{
+  "name": "test-utilities",
+  "version": "1.0.0",
+  "description": "Test utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strange-developer/test-utilities.git"
+  },
+  "author": "Chamir Bodasing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strange-developer/test-utilities/issues"
+  },
+  "homepage": "https://github.com/strange-developer/test-utilities#readme",
+  "dependencies": {
+    "babel-jest": "^23.4.2",
+    "jest": "^23.5.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}

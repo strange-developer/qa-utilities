@@ -1,0 +1,1 @@
+export { default as select } from './qa-selector';
