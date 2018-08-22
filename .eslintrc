@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "no-unused-expressions": 0,
+    "linebreak-style": 0,
+    "object-curly-newline": "off"
+  },
+  "env": {
+    "jest": true
+  }
+}
