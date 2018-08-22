@@ -4,7 +4,8 @@
   "description": "Test utilities",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "jest",
+    "test": "npm run lint && jest",
+    "lint": "eslint ./src && eslint ./test",
     "prepublishOnly": "babel src --out-dir lib"
   },
   "repository": {

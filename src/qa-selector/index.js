@@ -1,1 +1,1 @@
-export default (qaTag) => `[data-qa="${qaTag}"]`;
+export default qaTag => `[data-qa="${qaTag}"]`;
