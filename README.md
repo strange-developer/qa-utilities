@@ -1,5 +1,5 @@
 # test-utilities
-### select(qaTaag: string): string
+### select(qaTag: string): string
 Takes in a string argument of your qa selector and returns a CSS selector.
 
 Example return value:
