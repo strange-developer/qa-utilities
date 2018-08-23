@@ -1,4 +1,5 @@
 # test-utilities
+[![Build Status](https://travis-ci.org/strange-developer/test-utilities.svg?branch=master)](https://travis-ci.org/strange-developer/test-utilities)
 
 A collection of test utilities for web applications. Currently only one function exists :)
 
