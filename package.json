@@ -9,7 +9,7 @@
     "test:scripts": "jest --coverage",
     "test:vulnerabilities": "npm audit --parseable",
     "lint": "eslint ./src && eslint ./test",
-    "prepublishOnly": "babel src --out-dir lib"
+    "build:production": "babel src --out-dir lib"
   },
   "repository": {
     "type": "git",
