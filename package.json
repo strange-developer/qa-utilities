@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strange-developer/test-utilities.git"
+    "url": "git+https://github.com/strange-developer/qa-utilities.git"
   },
   "author": "Chamir Bodasing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/strange-developer/test-utilities/issues"
+    "url": "https://github.com/strange-developer/qa-utilities/issues"
   },
-  "homepage": "https://github.com/strange-developer/test-utilities#readme",
+  "homepage": "https://github.com/strange-developer/qa-utilities#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
