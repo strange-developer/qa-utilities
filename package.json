@@ -1,5 +1,5 @@
 {
-  "name": "test-utilities",
+  "name": "qa-utilities",
   "version": "0.0.1",
   "description": "Test utilities",
   "main": "./lib/index.js",
